@@ -62,6 +62,23 @@
             </form>
           </div>
 
+          <div class="row">
+            <div class="input-field col s4">
+              <input id="nota" type="number" step=".1" min=0 max=10 class="validate" require>
+              <label for="nota">Nota</label>
+            </div>
+          </div>
+
+          <div class="file-field input-field">
+            <div class="btn indigo lighten-1">
+              <span>Imagem</span>
+              <input type="file" multiple>
+            </div>
+            <div class="file-path-wrapper">
+              <input class="file-path validate" type="text" placeholder="Adicione sua imagem aqui">
+            </div>
+          </div>
+
         </div>
         <div class="card-action">
           <a class="btn waves-effect waves-light indigo lighten-1" href="galeria.php">Cancelar</a>
