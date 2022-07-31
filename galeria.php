@@ -18,7 +18,7 @@
   <title>TopCine</title>
 </head>
 
-<body>
+<body class="grey lighten-1">
   <nav class="nav-extended  indigo lighten-1">
     <div class="nav-wrapper">
       <ul id="nav-mobile" class="right hide-on-med-and-down">
@@ -27,7 +27,7 @@
       </ul>
     </div>
 
-    <div class="nav-header">
+    <div class="nav-header center">
       <h1>TopCine</h1>
     </div>
 

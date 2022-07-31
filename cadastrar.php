@@ -16,25 +16,16 @@
   <title>Cadastrar</title>
 </head>
 
-<body>
+<body class="grey lighten-1">
   <nav class="nav-extended  indigo lighten-1">
     <div class="nav-wrapper">
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="galeria.php">Galeria</a></li>
-        <li><a href="cadastrar.php">Cadastrar</a></li>
       </ul>
     </div>
 
-    <div class="nav-header">
+    <div class="nav-header center">
       <h1>TopCine</h1>
-    </div>
-
-    <div class="nav-content">
-      <ul class="tabs tabs-transparent indigo darken-4">
-        <li class="tab"><a class="active" href="#test1">Todos</a></li>
-        <li class="tab"><a href="#test2">Assistidos</a></li>
-        <li class="tab"><a href="#test3">Favoritos</a></li>
-      </ul>
     </div>
   </nav>
 
